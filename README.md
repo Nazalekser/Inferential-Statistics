@@ -1,1 +1,1 @@
-# Inferential-Statistics-Duke-University-Course
+# Inferential Statistics labs and assignments.
