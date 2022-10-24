@@ -1,1 +1,1 @@
-# Inferential Statistics labs and assignments.
+# Inferential Statistics labs and assignments (with R).
