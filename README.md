@@ -1,2 +1,1 @@
-# Inferential Statistics labs and assignments (with R). 
-Next branch
+# Inferential Statistics labs and assignments (with R).
